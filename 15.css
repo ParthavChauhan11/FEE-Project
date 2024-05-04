@@ -1,6 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Sedan+SC&display=swap');
 *{
     margin: 0px;
     padding: 0px;
+    font-family: "Sedan SC", serif;  //Added the google font;
 }
 .main-container{
     display: flex;
