@@ -27,6 +27,7 @@
     transition: background-color 0.5s ease-in-out;
     transition: color 0.4s ease-in-out;
     font-weight: 100;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Black box shadow */
 }
 .main-container a:hover{
     color: white;
